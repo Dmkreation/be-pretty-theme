@@ -19,7 +19,7 @@
     },
     "404": {
       "title": "404 pagina niet gevonden",
-      "subtext": "De pagina die je hebt opgevraagd bestaat niet.",
+      "subtext": "De pagina die u heeft opgevraagd bestaat niet.",
       "link": "Terugkeren naar winkel"
     },
     "pagination": {
@@ -31,11 +31,11 @@
       "opening_soon": "Binnenkort geopend",
       "login_form_heading": "Ga winkel binnen met wachtwoord",
       "login_form_password_label": "Wachtwoord",
-      "login_form_password_placeholder": "Je wachtwoord",
+      "login_form_password_placeholder": "Uw wachtwoord",
       "login_form_submit": "Naar binnen",
       "signup_form_email_label": "E-mail",
       "signup_form_success": "Wij sturen u een e-mail nog voordat we opengaan!",
-      "admin_link_html": "Ben je de winkeleigenaar? <a href=\"\/admin\" class=\"text-link\">Log hier in<\/a>",
+      "admin_link_html": "Bent u de winkeleigenaar? <a href=\"\/admin\" class=\"text-link\">Log hier in<\/a>",
       "password_link": "Ga naar binnen met wachtwoord",
       "powered_by_shopify_html": "Deze winkel wordt door {{ shopify }} aangedreven"
     },
@@ -66,14 +66,14 @@
       "products": "Producten",
       "number_of_results_found": "{{ results_count }} resultaten gevonden",
       "one_result_found": "1 resultaat gevonden",
-      "no_results": "Controleer je spelling of gebruik andere woorden.",
+      "no_results": "Controleer uw spelling of gebruik andere woorden.",
       "results_with_count": {
         "one": "{{ count }} resultaat voor '{{ terms }}'",
         "other": "{{ count }} resultaten voor '{{ terms }}'"
       }
     },
     "newsletter_form": {
-      "newsletter_email": "Abonneer je op onze mailinglijst",
+      "newsletter_email": "Abonneer u op onze mailinglijst",
       "email_placeholder": "E-mailadres",
       "confirmation": "Bedankt voor het abonneren!",
       "submit": "Abonneren"
@@ -145,8 +145,8 @@
       "message": "Bericht",
       "post": "Plaats een reactie",
       "moderated": "Opmerkingen moeten worden goedgekeurd voordat ze worden gepubliceerd",
-      "success_moderated": "Je reactie is geplaatst. Wij publiceren het zo; onze blog wordt gemodereerd.",
-      "success": "Je reactie is geplaatst! Bedankt!",
+      "success_moderated": "Uw reactie is geplaatst. Wij publiceren het zo; onze blog wordt gemodereerd.",
+      "success": "Uw reactie is geplaatst! Bedankt!",
       "unapproved": "Het opgegeven e-mailadres is niet goedgekeurd voor het plaatsen van opmerkingen.",
       "comments_with_count": {
         "one": "{{ count }} reactie",
@@ -226,7 +226,7 @@
       "phone": "Telefoonnummer",
       "message": "Bericht",
       "submit": "Sturen",
-      "post_success": "Bedankt dat je contact met ons heeft opgenomen. We nemen zo snel mogelijk contact met je op.",
+      "post_success": "Bedankt dat u contact met ons heeft opgenomen. We nemen zo snel mogelijk contact met u op.",
       "error_heading": "Pas het volgende aan:"
     }
   },
@@ -246,7 +246,7 @@
       "cancel": "Uitnodiging afwijzen"
     },
     "addresses": {
-      "title": "Je adressen",
+      "title": "Uw adressen",
       "default": "Standaard",
       "add_new": "Voeg een nieuw adres toe",
       "edit_address": "Adres bewerken",
@@ -314,7 +314,7 @@
       "submit": "Indienen",
       "cancel": "Annuleren",
       "subtext": "Wij sturen u een e-mail om je wachtwoord opnieuw in te stellen.",
-      "success": "We hebben je een e-mail gestuurd met een link om je wachtwoord opnieuw in te stellen."
+      "success": "We hebben u een e-mail gestuurd met een link om je wachtwoord opnieuw in te stellen."
     },
     "reset_password": {
       "title": "Account-wachtwoord opnieuw instellen",
@@ -337,10 +337,10 @@
       "title": "Startpagina"
     },
     "onboarding": {
-      "product_title": "Naam van je product",
-      "product_description": "Dit gebied wordt gebruikt om de gegevens van je product te beschrijven. Vertel je klanten over de stijl en hoe je product eruit ziet en hoe het aanvoelt. Voeg details toe over de kleur, de gebruikte materialen en waar het is gemaakt.",
-      "collection_title": "De naam van je collectie",
-      "blog_title": "De titel van je bericht",
+      "product_title": "Naam van uw product",
+      "product_description": "Dit gebied wordt gebruikt om de gegevens van uw product te beschrijven. Vertel uw klanten over de stijl en hoe uw product eruit ziet en hoe het aanvoelt. Voeg details toe over de kleur, de gebruikte materialen en waar het is gemaakt.",
+      "collection_title": "De naam van uw collectie",
+      "blog_title": "De titel van uw bericht",
       "blog_excerpt": "Je winkel heeft nog geen blogberichten geplaatst. Je kunt een blog gebruiken om nieuwe producten te lanceren, tips te geven of andere nieuwtjes te delen met je klanten. Raadpleeg de e-commerceblog van Shopify voor inspiratie en advies voor je eigen winkel en blog.",
       "blog_author": "Naam auteur",
       "no_content": "Dit gedeelte heeft momenteel geen content. Voeg met de zijbalk content toe aan dit deel."
@@ -389,19 +389,19 @@
       "view_cart": "Winkelwagen bekijken",
       "availability": "Beschikbaarheid",
       "from_lowest_price_html": "van {{ lowest_price }}",
-      "view_in_space": "Bekijk in je ruimte",
-      "view_in_space_label": "Bekijk in je ruimte, laadt artikel in augmented reality-venster"
+      "view_in_space": "Bekijk in uw ruimte",
+      "view_in_space_label": "Bekijk in uw ruimte, laadt artikel in augmented reality-venster"
     }
   },
   "gift_cards": {
     "issued": {
-      "title_html": "Hier is je cadeaubon ter waarde van {{ value }} voor {{ shop }}!",
+      "title_html": "Hier is uw cadeaubon ter waarde van {{ value }} voor {{ shop }}!",
       "subtext": "Je cadeaubon",
       "gift_card_code": "Cadeaubon code",
       "disabled": "Uitgeschakeld",
       "expired": "Verlopen op {{ expiry }}",
       "active": "Verloopt op {{ expiry }}",
-      "redeem_html": "Gebruik deze code bij het afrekenen om je cadeaubon van {{ value }} in te wisselen",
+      "redeem_html": "Gebruik deze code bij het afrekenen om uw cadeaubon van {{ value }} in te wisselen",
       "shop_link": "Ga winkelen",
       "print": "Deze cadeaubon afdrukken",
       "remaining_html": "{{ balance }} over",
