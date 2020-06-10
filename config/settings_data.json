@@ -65,7 +65,8 @@
           "left_aligned_logo": true,
           "show_header_lines": true,
           "show_announcement": true,
-          "header_text": "Announce something here",
+          "header_text": "Be Pretty Family",
+          "header_catchphrase": "Hello",
           "announcement_link": ""
         }
       },
@@ -117,7 +118,7 @@
               "overlay_opacity": 30,
               "color_text": "#ffffff",
               "text_alignment": "center",
-              "slide_heading": "Image slide",
+              "slide_heading": "",
               "button_label": "",
               "button_link": ""
             }
@@ -130,7 +131,7 @@
               "overlay_opacity": 30,
               "color_text": "#ffffff",
               "text_alignment": "center",
-              "slide_heading": "Image slide",
+              "slide_heading": "",
               "button_label": "",
               "button_link": ""
             }
@@ -143,7 +144,7 @@
               "overlay_opacity": 30,
               "color_text": "#ffffff",
               "text_alignment": "center",
-              "slide_heading": "Image slide",
+              "slide_heading": "",
               "button_label": "",
               "button_link": ""
             }
@@ -152,11 +153,11 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/felipe-bustillo-Etn6hTxRqLU-unsplash.jpg",
-              "alignment": "center center",
+              "alignment": "center top",
               "overlay_opacity": 30,
               "color_text": "#ffffff",
               "text_alignment": "center",
-              "slide_heading": "Image slide",
+              "slide_heading": "",
               "button_label": "",
               "button_link": ""
             }
@@ -165,11 +166,11 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/kay-Wu-z2EFmXe0-unsplash.jpg",
-              "alignment": "center center",
+              "alignment": "center top",
               "overlay_opacity": 30,
               "color_text": "#ffffff",
               "text_alignment": "center",
-              "slide_heading": "Image slide",
+              "slide_heading": "",
               "button_label": "",
               "button_link": ""
             }
@@ -183,7 +184,7 @@
           "1587662637895"
         ],
         "settings": {
-          "slider_height": "small",
+          "slider_height": "large",
           "slider_autorotate": false,
           "slider_autorotate_rate": 5,
           "slider_home_transition": "fade",
